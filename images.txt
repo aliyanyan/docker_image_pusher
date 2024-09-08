@@ -1,6 +1,6 @@
 nginx
 httpd
-alpline
+alpine
 mysql
 tomcat
 #支持私库

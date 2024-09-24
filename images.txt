@@ -2,7 +2,7 @@ nginx
 httpd
 alpine
 busybox
-busybox-curl
+# busybox-curl
 ubuntu:22.04
 mysql
 redis

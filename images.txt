@@ -6,7 +6,7 @@ busybox
 ubuntu:22.04
 ubuntu:24.04
 ubuntu
-
+centos:7
 mysql
 redis
 tomcat

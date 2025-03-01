@@ -3,7 +3,7 @@ httpd
 alpine
 busybox
 # busybox-curl
-ubuntu:22.04
+# ubuntu:22.04
 mysql
 redis
 tomcat

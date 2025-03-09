@@ -25,7 +25,7 @@ k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 
 
 calico/cni:v3.29.1
-alico/cni:v3.29.1
+calico/cni:v3.29.1
 calico/node:v3.29.1
-alico/node:v3.29.1
-alico/kube-controllers:v3.29.1
+calico/node:v3.29.1
+calico/kube-controllers:v3.29.1
